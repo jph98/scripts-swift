@@ -1,6 +1,5 @@
-# scripts-swift
 
-!Swift Language
+h2. Swift Language
 
 Cheat Sheets
 * Objective C - https://github.com/iwasrobbed/Objective-C-CheatSheet
