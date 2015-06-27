@@ -1,5 +1,5 @@
 
-h2. Swift Language
+!! Swift Language
 
 Cheat Sheets
 * Objective C - https://github.com/iwasrobbed/Objective-C-CheatSheet
