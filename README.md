@@ -1,15 +1,15 @@
 
-!!Swift Language
+#Swift Language
 
-Cheat Sheets
+##Cheat Sheets
 * Objective C - https://github.com/iwasrobbed/Objective-C-CheatSheet
 * Swift - https://github.com/iwasrobbed/Swift-CheatSheet
 * XCode Cheat Sheet - http://www.git-tower.com/blog/content/posts/22-xcode-cheat-sheet/xcode-cheat-sheet-large01.png
 
-Courses
+##Courses
 * Swift Course - https://itunes.apple.com/us/course/app-development-teaching-swift/id1003406963
 
-Features
+##High Level Features
 * Basic Classes
 * Func and Class Methods
 * Variables (var, let), Any, AnyObject.
@@ -30,3 +30,18 @@ Features
 * Guard vs If
 * Defer keyword
 * Whole Module Optimization to increase perfroamnce
+
+##Concurrency
+
+* See Grand Central Dispatch - http://www.raywenderlich.com/79149/grand-central-dispatch-tutorial-swift-part-1
+
+##Useful Libraries
+
+See - http://www.swifttoolbox.io/
+
+Also see - https://github.com/Wolg/awesome-swift
+
+* Alamofire - elegant HTTP networking
+* JSON ObjectMapper - https://github.com/Hearst-DD/ObjectMapper
+* Starscream - web sockets
+* Caraval - event bus
