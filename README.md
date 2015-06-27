@@ -31,6 +31,16 @@
 * Defer keyword
 * Whole Module Optimization to increase perfroamnce
 
+##Optionals
+
+Defined as follows:
+
+    var name: String? = "Bristol"
+    
+If you are sure it contains a value you can unpack it with:
+
+    "\(name?)"
+    
 ##Concurrency
 
 * See Grand Central Dispatch - http://www.raywenderlich.com/79149/grand-central-dispatch-tutorial-swift-part-1
