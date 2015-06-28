@@ -216,6 +216,10 @@ Dispatch Queues
 * Utility Class - long running tasks with progress.  Energy efficient. I/O, networking, data feeds etc...
 * Background Class - pre-fetching, maintenance and other tasks that don't require user interaction
 
+##iOS Specifices
+
+Using Gestures - http://www.raywenderlich.com/76020/using-uigesturerecognizer-with-swift-tutorial
+
 ##Useful Libraries
 
 See - http://www.swifttoolbox.io/
